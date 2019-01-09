@@ -6,10 +6,7 @@
 
 ### Day 1: 9th January 2019
 
-**Today's Progress**: ...
-
-**Thoughts:** ...
+**Today's Progress**: Made requested updates to Financial Formulas open-source library.
 
 **Link(s) to work**
-1. [...](https://github.com/srbrettle/100-days-of-code)
-2. [...](https://github.com/srbrettle/100-days-of-code)
+1. [GitHub srbrettle/Financial-Formulas-Library-.NET-Standard](https://github.com/srbrettle/Financial-Formulas-Library-.NET-Standard)
