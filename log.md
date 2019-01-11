@@ -17,3 +17,10 @@
 
 **Link(s) to work**
 1. [GitHub srbrettle/100-days-of-code/100-Days-Of-ML-Code/D1-DataPreProcessing.py](https://github.com/srbrettle/100-days-of-code/blob/master/100-Days-Of-ML-Code/D1-DataPreProcessing.py)
+
+### Day 3: 11th January 2019
+
+**Today's Progress**: Work on Algorithms to generate, check for symmetry and reverse binary search trees. Complete some CodeWards Katas.
+
+**Link(s) to work**
+1. [GitHub srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Binary-Trees-Symmetry-And-Reverse-C%23DotNet](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Binary-Trees-Symmetry-And-Reverse-C%23DotNet)
