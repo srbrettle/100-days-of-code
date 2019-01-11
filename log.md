@@ -20,7 +20,7 @@
 
 ### Day 3: 11th January 2019
 
-**Today's Progress**: Work on Algorithms to generate, check for symmetry and reverse binary search trees. Completed some CodeWards Katas.
+**Today's Progress**: Work on Algorithms to generate, check for symmetry and reverse binary search trees. Completed some CodeWars Katas.
 
 **Link(s) to work**
 1. [GitHub srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Binary-Trees-Symmetry-And-Reverse-C%23DotNet](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Binary-Trees-Symmetry-And-Reverse-C%23DotNet)
