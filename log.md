@@ -25,7 +25,7 @@
 **Link(s) to work**
 1. [GitHub srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Binary-Trees-Symmetry-And-Reverse-C%23DotNet](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Binary-Trees-Symmetry-And-Reverse-C%23DotNet)
 
-### Day 3: 11th January 2019
+### Day 4: 12th January 2019
 
 **Today's Progress**: Start running through the Google Tech Dev Guide - Foundations of Programming path.
 
