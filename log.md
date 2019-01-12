@@ -24,3 +24,12 @@
 
 **Link(s) to work**
 1. [GitHub srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Binary-Trees-Symmetry-And-Reverse-C%23DotNet](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Binary-Trees-Symmetry-And-Reverse-C%23DotNet)
+
+### Day 3: 11th January 2019
+
+**Today's Progress**: Start running through the Google Tech Dev Guide - Foundations of Programming path.
+
+**Link(s) to work**
+1. [GitHub srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Google-Tech-Dev-Guide/LongestWordInDictSubsequenceOfString](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Google-Tech-Dev-Guide/LongestWordInDictSubsequenceOfString)
+
+1. [GitHub Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#!)
