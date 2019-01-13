@@ -33,3 +33,14 @@
 1. [GitHub srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Google-Tech-Dev-Guide/LongestWordInDictSubsequenceOfString](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Google-Tech-Dev-Guide/LongestWordInDictSubsequenceOfString)
 2. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#!)
 3. [CodingBat stringSplosion](https://codingbat.com/prob/p117334)
+4. [CodingBat stringSplosion solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Warmup-2/stringSplosion.java)
+
+### Day 5: 13th January 2019
+
+**Today's Progress**: Completed Basic HTML and HTML5 and Basic CSS sections of freeCodeCamp's Responsive Web Design Certification. Continued with Google Tech Dev Guide - Foundations of Programming path (Code: maxSpan problem).
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://learn.freecodecamp.org/)
+2. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/maxspan-problem-return-largest-span-array/#!)
+3. [CodingBat maxSpan](https://codingbat.com/prob/p189576)
+4. [CodingBat maxSpan solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Array-3/maxSpan.java)
