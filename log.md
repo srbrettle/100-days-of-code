@@ -47,7 +47,7 @@
 
 ### Day 6: 14th January 2019
 
-**Today's Progress**: Started Applied Visual Design section freeCodeCamp's Responsive Web Design Certification and continued with Google Tech Dev Guide - Foundations of Programming path (Code: sumNumbers problem).
+**Today's Progress**: Started Applied Visual Design section of freeCodeCamp's Responsive Web Design Certification and continued with Google Tech Dev Guide - Foundations of Programming path (Code: sumNumbers problem).
 
 **Link(s) to work**
 1. [FreeCodeCamp](https://learn.freecodecamp.org/)
