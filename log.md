@@ -44,3 +44,13 @@
 2. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/maxspan-problem-return-largest-span-array/#!)
 3. [CodingBat maxSpan](https://codingbat.com/prob/p189576)
 4. [CodingBat maxSpan solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Array-3/maxSpan.java)
+
+### Day 6: 14th January 2019
+
+**Today's Progress**: Started Applied Visual Design section freeCodeCamp's Responsive Web Design Certification and continued with Google Tech Dev Guide - Foundations of Programming path (Code: sumNumbers problem).
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://learn.freecodecamp.org/)
+2. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/subnumbers-problem-string-return-sum/#!)
+3. [CodingBat sumNumbers](https://codingbat.com/prob/p121193)
+4. [CodingBat sumNumbers solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/String-3/sumNumbers.java)
