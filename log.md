@@ -54,3 +54,12 @@
 2. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/subnumbers-problem-string-return-sum/#!)
 3. [CodingBat sumNumbers](https://codingbat.com/prob/p121193)
 4. [CodingBat sumNumbers solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/String-3/sumNumbers.java)
+
+### Day 7: 15th January 2019
+
+**Today's Progress**: Continued with Google Tech Dev Guide - Foundations of Programming path, more code challenges (Code: CodingBat sort problem).
+
+**Link(s) to work**
+1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/array-sort-problem-sorted-values/#!)
+2. [CodingBat sort](https://codingbat.com/prob/p262890)
+3. [CodingBat sort solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Sort/sort.java)
