@@ -69,9 +69,9 @@
 **Today's Progress**: More freeCodeCamp and challenges from Google Tech Dev Guide on CodingBat (blackjack & evenlySpaced problems).
 
 **Link(s) to work**
-1. [Google Tech Dev Guide - evenlySpaced](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/#!)
-2. [Google Tech Dev Guide - evenlySpaced](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/#!)
+1. [Google Tech Dev Guide - blackjack](https://techdevguide.withgoogle.com/paths/foundational/software-debugging-warmup/#!)
 2. [CodingBat blackjack](https://codingbat.com/prob/p117019)
 3. [CodingBat blackjack solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Logic-2/blackjack.java)
-2. [CodingBat evenlySpaced](https://codingbat.com/prob/p198700)
-3. [CodingBat evenlySpaced solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Logic-2/evenlySpaced.java)
+4. [Google Tech Dev Guide - evenlySpaced](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/#!)
+5. [CodingBat evenlySpaced](https://codingbat.com/prob/p198700)
+6. [CodingBat evenlySpaced solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Logic-2/evenlySpaced.java)
