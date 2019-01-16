@@ -63,3 +63,15 @@
 1. [Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/foundational/array-sort-problem-sorted-values/#!)
 2. [CodingBat sort](https://codingbat.com/prob/p262890)
 3. [CodingBat sort solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Sort/sort.java)
+
+### Day 8: 16th January 2019
+
+**Today's Progress**: More freeCodeCamp and challenges from Google Tech Dev Guide on CodingBat (blackjack & evenlySpaced problems).
+
+**Link(s) to work**
+1. [Google Tech Dev Guide - evenlySpaced](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/#!)
+2. [Google Tech Dev Guide - evenlySpaced](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/#!)
+2. [CodingBat blackjack](https://codingbat.com/prob/p117019)
+3. [CodingBat blackjack solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Logic-2/blackjack.java)
+2. [CodingBat evenlySpaced](https://codingbat.com/prob/p198700)
+3. [CodingBat evenlySpaced solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Logic-2/evenlySpaced.java)
