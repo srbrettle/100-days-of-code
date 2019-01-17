@@ -75,3 +75,10 @@
 4. [Google Tech Dev Guide - evenlySpaced](https://techdevguide.withgoogle.com/paths/foundational/evenlyspaced-problem-medium/#!)
 5. [CodingBat evenlySpaced](https://codingbat.com/prob/p198700)
 6. [CodingBat evenlySpaced solution](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/blob/master/CodingBat/Logic-2/evenlySpaced.java)
+
+### Day 9: 17th January 2019
+
+**Today's Progress**: Started the Entity Framework 6 path on pluralsight and completed all remaining CodingBat challenges from the Google Tech Dev Guide Foundational path.
+
+**Link(s) to work**
+1. [GitHub - CodingBat Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/CodingBat)
