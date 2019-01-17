@@ -78,7 +78,7 @@
 
 ### Day 9: 17th January 2019
 
-**Today's Progress**: Started the Entity Framework 6 path on pluralsight and completed all remaining CodingBat challenges from the Google Tech Dev Guide Foundational path.
+**Today's Progress**: Started the Entity Framework 6 path on pluralsight and completed all remaining CodingBat challenges from the Google Tech Dev Guide Foundation path.
 
 **Link(s) to work**
 1. [GitHub - CodingBat Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/CodingBat)
