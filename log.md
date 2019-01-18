@@ -82,3 +82,10 @@
 
 **Link(s) to work**
 1. [GitHub - CodingBat Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/CodingBat)
+
+### Day 10: 18th January 2019
+
+**Today's Progress**: Completed all of the remaining Logic-2 section Java challenges on CodingBat.
+
+**Link(s) to work**
+1. [GitHub - CodingBat Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/CodingBat/Logic-2/)
