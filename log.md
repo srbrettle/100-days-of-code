@@ -89,3 +89,10 @@
 
 **Link(s) to work**
 1. [GitHub - CodingBat Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/CodingBat/Logic-2/)
+
+### Day 11: 19th January 2019
+
+**Today's Progress**: Continued with the Google Tech Dev Guide, almost finished the Foundation path and started the Advanced path. Also managed to complete several LeetCode challenges in C#, Java and Python.
+
+**Link(s) to work**
+1. [GitHub - LeetCode Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/LeetCode/)
