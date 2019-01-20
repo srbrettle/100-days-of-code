@@ -96,3 +96,10 @@
 
 **Link(s) to work**
 1. [GitHub - LeetCode Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/LeetCode/)
+
+### Day 12: 20th January 2019
+
+**Today's Progress**: Finshed the Applied Visual Design section of freeCodeCamp's Responsive Web Design Certification.
+
+**Link(s) to work**
+1. [freeCodeCamp Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
