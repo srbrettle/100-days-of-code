@@ -103,3 +103,10 @@
 
 **Link(s) to work**
 1. [freeCodeCamp Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design
+
+### Day 13: 21st January 2019
+
+**Today's Progress**: Continued with Entity Framework on Pluralsight, Google Tech Dev Guide (Advanced) and LeetCode challenges.
+
+**Link(s) to work**
+1. [GitHub - LeetCode Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/LeetCode/)
