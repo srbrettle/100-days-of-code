@@ -110,3 +110,7 @@
 
 **Link(s) to work**
 1. [GitHub - LeetCode Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/LeetCode/)
+
+### Day 14: 22nd January 2019
+
+**Today's Progress**: More code challenges and started looking at Razor Pages in ASP.NET Core.
