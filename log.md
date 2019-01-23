@@ -114,3 +114,14 @@
 ### Day 14: 22nd January 2019
 
 **Today's Progress**: More code challenges and started looking at Razor Pages in ASP.NET Core.
+
+**Link(s) to work**
+1. [Get started with Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-2.2&tabs=visual-studio)
+
+### Day 15: 23rd January 2019
+
+**Today's Progress**: Continuing with http://ASP.NET Razor Pages (adding a model and scaffolding).
+
+**Link(s) to work**
+1. [Add a model to a Razor Pages app in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-2.2&tabs=visual-studio)
+2. [Scaffolded Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/page?view=aspnetcore-2.2&tabs=visual-studio)
