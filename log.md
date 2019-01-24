@@ -120,8 +120,15 @@
 
 ### Day 15: 23rd January 2019
 
-**Today's Progress**: Continuing with http://ASP.NET Razor Pages (adding a model and scaffolding).
+**Today's Progress**: Continuing with ASP.NET Razor Pages (adding a model and scaffolding).
 
 **Link(s) to work**
 1. [Add a model to a Razor Pages app in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-2.2&tabs=visual-studio)
 2. [Scaffolded Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/page?view=aspnetcore-2.2&tabs=visual-studio)
+
+### Day 16: 24th January 2019
+
+**Today's Progress**: More ASP.NET Razor Pages (working with databases) and completed some quick HackerRank algorithm challenges.
+
+**Link(s) to work**
+1. [Work with a database and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/sql?view=aspnetcore-2.2&tabs=visual-studio)
