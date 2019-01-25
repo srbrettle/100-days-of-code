@@ -132,3 +132,10 @@
 
 **Link(s) to work**
 1. [Work with a database and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/sql?view=aspnetcore-2.2&tabs=visual-studio)
+
+### Day 17: 25th January 2019
+
+**Today's Progress**: Completed the 'Applied Accessibility' section of the Responsive Web Design Certification in freeCodeCamp. Started running through HackerRank's SQL challenges.
+
+**Link(s) to work**
+1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
