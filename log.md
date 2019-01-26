@@ -139,3 +139,10 @@
 
 **Link(s) to work**
 1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+ 
+ ### Day 18: 26th January 2019
+
+**Today's Progress**: Productive day today including completing the Responsive Web Design Principles section in freeCodeCamp, started HackerRank's 10 Days of Javascript, 10 Days of Statistics and 30 Days of Code as well as a bunch of SQL challenges.
+
+**Link(s) to work**
+1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
