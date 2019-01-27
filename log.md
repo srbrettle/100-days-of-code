@@ -146,3 +146,10 @@
 
 **Link(s) to work**
 1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+
+ ### Day 19: 27th January 2019
+
+**Today's Progress**: Continued with HackerRank's 10 Days of Javascript, 10 Days of Statistics and 30 Days of Code, hoping to become more capable with both Python and Javascript.
+
+**Link(s) to work**
+1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
