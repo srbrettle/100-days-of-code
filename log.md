@@ -156,7 +156,7 @@
 
  ### Day 20: 28th January 2019
 
-**Today's Progress**: Completed Day 3 challenges for HackerRank's 10 Days of Javascript, 10 Days of Statistics and 30 Days of Code, practicing Python and Javascript.
+**Today's Progress**: Completed Day 3 challenges for HackerRank's 10 Days of Javascript, 10 Days of Statistics and 30 Days of Code, practising Python and Javascript.
 
 **Link(s) to work**
 1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
