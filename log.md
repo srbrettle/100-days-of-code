@@ -160,3 +160,11 @@
 
 **Link(s) to work**
 1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+
+ ### Day 21: 29th January 2019
+
+**Today's Progress**: Started freeCodeCamp's CSS Flexbox session and continued with Day 4 challenges for HackerRank's 10 Days of Javascript, 10 Days of Statistics and 30 Days of Code.
+
+**Link(s) to work**
+1. [freeCodeCamp - CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+2. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
