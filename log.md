@@ -168,3 +168,11 @@
 **Link(s) to work**
 1. [freeCodeCamp - CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
 2. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+
+ ### Day 22: 30th January 2019
+
+**Today's Progress**: Continued with ASP.NET Razor Pages, freeCodeCamp's CSS Flexbox section and HackerRank's 30 Days of Code.
+
+**Link(s) to work**
+1. [freeCodeCamp - CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+2. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
