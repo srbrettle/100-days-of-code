@@ -176,3 +176,11 @@
 **Link(s) to work**
 1. [freeCodeCamp - CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
 2. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+
+ ### Day 23: 31st January 2019
+
+**Today's Progress**: Adding search, new fields and updating databse models with ASP.NET Razor Pages, as well as more of HackerRank's 30 Days of Code, and 10 Days of Javascript.
+
+**Link(s) to work**
+1. [Microsoft ASP.NET Razor Pages Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages)
+2. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
