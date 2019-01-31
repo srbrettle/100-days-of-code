@@ -179,7 +179,7 @@
 
  ### Day 23: 31st January 2019
 
-**Today's Progress**: Adding search, new fields and updating databse models with ASP.NET Razor Pages, as well as more of HackerRank's 30 Days of Code, and 10 Days of Javascript.
+**Today's Progress**: Added search, new fields and updated the database model with ASP.NET Razor Pages, as well as more of HackerRank's 30 Days of Code, and 10 Days of Javascript.
 
 **Link(s) to work**
 1. [Microsoft ASP.NET Razor Pages Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages)
