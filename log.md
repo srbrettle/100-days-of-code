@@ -184,3 +184,7 @@
 **Link(s) to work**
 1. [Microsoft ASP.NET Razor Pages Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages)
 2. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+
+### Day 24: 1st February 2019
+
+**Today's Progress**: Added verification with ASP .NET Razor Pages.
