@@ -192,3 +192,9 @@
 **Link(s) to work**
 1. [Microsoft ASP.NET Razor Pages Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages)
 
+### Day 25: 2nd February 2019
+
+**Today's Progress**: Random Password Generator in Python using NCSC guidance and some HackerRank challenges.
+
+**Link(s) to work**
+1. [GitHub - Random Password Generator](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Random%20Password%20Generator)
