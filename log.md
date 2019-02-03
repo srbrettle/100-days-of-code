@@ -198,3 +198,7 @@
 
 **Link(s) to work**
 1. [GitHub - Random Password Generator](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/Random%20Password%20Generator)
+
+### Day 26: 3rd February 2019
+
+**Today's Progress**: Looked at working with dictionaries in Python with HackerRank and various guides.
