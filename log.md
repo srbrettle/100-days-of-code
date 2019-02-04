@@ -202,3 +202,7 @@
 ### Day 26: 3rd February 2019
 
 **Today's Progress**: Looked at working with dictionaries in Python with HackerRank and various guides.
+
+### Day 27: 4th February 2019
+
+**Today's Progress**: Quick session and HackerRank and started reading up on .NET Standard "under-the-hood".
