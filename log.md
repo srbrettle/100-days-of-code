@@ -209,4 +209,4 @@
 
 ### Day 28: 5th February 2019
 
-**Today's Progress**: Rewrote the password generator from Day 25 with ASP.NET with functionality exposed via a REST API.
+**Today's Progress**: Rewrote the password generator from Day 25 using ASP.NET with functionality exposed via a REST API.
