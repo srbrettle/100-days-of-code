@@ -206,3 +206,7 @@
 ### Day 27: 4th February 2019
 
 **Today's Progress**: Quick session and HackerRank and started reading up on .NET Standard "under-the-hood".
+
+### Day 28: 5th February 2019
+
+**Today's Progress**: Rewrote the password generator from Day 25 with ASP.NET with functionality exposed via a REST API.
