@@ -203,9 +203,15 @@
 
 **Today's Progress**: Looked at working with dictionaries in Python with HackerRank and various guides.
 
+**Link(s) to work**
+1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+
 ### Day 27: 4th February 2019
 
 **Today's Progress**: Quick session and HackerRank and started reading up on .NET Standard "under-the-hood".
+
+**Link(s) to work**
+1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
 
 ### Day 28: 5th February 2019
 
@@ -214,3 +220,13 @@
 ### Day 29: 6th February 2019
 
 **Today's Progress**: Not much spare time this evening so settled for some quick Python challenges on HackerRank.
+
+**Link(s) to work**
+1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+
+### Day 30: 7th February 2019
+
+**Today's Progress**: Spent some time getting to grips with manipulating 2D arrays in Python with HackerRank.
+
+**Link(s) to work**
+1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
