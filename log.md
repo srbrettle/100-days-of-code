@@ -230,3 +230,14 @@
 
 **Link(s) to work**
 1. [GitHub - HackerRank Solutions](https://github.com/srbrettle/Sandbox-Algorithms-Just-For-Fun/tree/master/HackerRank/)
+
+### Day 31: 8th February 2019
+
+**Today's Progress**: Looked at the ASP.NET  MVC 5 architecture, hoping to use it more on personal projects.
+
+### Day 32: 9th February 2019
+
+**Today's Progress**: Super busy day but managed to delve a bit deeper into git this morning, and made a start reading Head First Design Patterns on the train home this evening.
+
+**Link(s) to work**
+1. [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
