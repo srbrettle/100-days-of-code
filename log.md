@@ -241,3 +241,14 @@
 
 **Link(s) to work**
 1. [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
+
+### Day 33: 10th February 2019
+
+**Today's Progress**: More Python in HackerRank and continued with Head First Design Patterns.
+
+**Link(s) to work**
+1. [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
+
+### Day 34: 11th February 2019
+
+**Today's Progress**: Code refactoring to patch potential security vulnerabilities in a RESTful ASP.NET  Core project, and upskilling with Python.
