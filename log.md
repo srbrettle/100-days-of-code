@@ -252,3 +252,47 @@
 ### Day 34: 11th February 2019
 
 **Today's Progress**: Code refactoring to patch potential security vulnerabilities in a RESTful ASP.NET  Core project, and upskilling with Python.
+
+### Day 35: 12th February 2019
+
+**Today's Progress**: Finished Chapter 1 of Head First Design Patterns (The Strategy Pattern)
+
+### Day 36: 13th February 2019
+
+**Today's Progress**: Worked with linked lists in Python and started Chapter 2 of Head First Design Patterns.
+
+### Day 37: 14th February 2019
+
+**Today's Progress**: Continued working with design patterns, implemented observer pattern in C#.
+
+### Day 38: 15th February 2019
+
+**Today's Progress**: Looked at handling and throwing Exceptions in Python and more design patterns.
+
+### Day 39: 16th February 2019
+
+**Today's Progress**: Read more about the Observer Pattern in 'Head First Design Patterns' and implemented in C#.
+
+### Day 40: 17th February 2019
+
+**Today's Progress**: Started looking at File Uploading with ASP.NET Core.
+
+### Day 41: 18th February 2019
+
+**Today's Progress**: Not as much coding outside of work today but continued with Python and learnt about the future of AI in space from E&T Magazine.
+
+### Day 42: 19th February 2019
+
+**Today's Progress**: Started a new project to get more familiar with MVVM, WPF and XAML.
+
+### Day 43: 20th February 2019
+
+**Today's Progress**: Added more features to the MVVM WPF project.
+
+### Day 44: 21th February 2019
+
+**Today's Progress**: Refactored a project to increase code quality and maintainability.
+
+### Day 45: 22th February 2019
+
+**Today's Progress**: Added more static factories to the WPF project for the construction of objects. 
