@@ -296,3 +296,7 @@
 ### Day 45: 22th February 2019
 
 **Today's Progress**: Added more static factories to the WPF project for the construction of objects. 
+
+### Day 46: 23th February 2019
+
+**Today's Progress**: Continuing to add functionality to the WPF/MVVM project.
